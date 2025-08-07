@@ -12,7 +12,4 @@ ORIG_IMG_PATH = 'dog.jpg'
 ```python
 overlay = Overlay("yolov2.bit")
 ```
-5. Run all  
-# Results as:  
-![image1](https://github.com/dhm2013724/yolov2_xilinx_fpga/blob/150MHzTn4Tm32Tr26Tc26Cin4Cout2/pynq/result2.jpg)
 
