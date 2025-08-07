@@ -15,4 +15,5 @@ ORIG_IMG_PATH = 'dog.jpg'
 overlay = Overlay("yolov2.bit")
 ```
 5. Demo video
-![Link](https://youtu.be/4zyFfL_v7Vc)
+
+[Link](https://youtu.be/4zyFfL_v7Vc)
